@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\CS_RGBtoGray\CS_RGBtoGray\bin\Debug\CS_RGBtoGray.exe.config
+C:\Users\user\Desktop\CS_RGBtoGray\CS_RGBtoGray\bin\Debug\CS_RGBtoGray.exe
+C:\Users\user\Desktop\CS_RGBtoGray\CS_RGBtoGray\bin\Debug\CS_RGBtoGray.pdb
+C:\Users\user\Desktop\CS_RGBtoGray\CS_RGBtoGray\obj\Debug\CS_RGBtoGray.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\CS_RGBtoGray\CS_RGBtoGray\obj\Debug\CS_RGBtoGray.Form1.resources
+C:\Users\user\Desktop\CS_RGBtoGray\CS_RGBtoGray\obj\Debug\CS_RGBtoGray.Properties.Resources.resources
+C:\Users\user\Desktop\CS_RGBtoGray\CS_RGBtoGray\obj\Debug\CS_RGBtoGray.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\CS_RGBtoGray\CS_RGBtoGray\obj\Debug\CS_RGBtoGray.exe
+C:\Users\user\Desktop\CS_RGBtoGray\CS_RGBtoGray\obj\Debug\CS_RGBtoGray.pdb
